@@ -1,2 +1,2 @@
-var todo: string = "Pick up drycleaning";
+let todo: string = "Pick up drycleaning";
 
